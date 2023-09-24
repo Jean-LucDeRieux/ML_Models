@@ -1,2 +1,6 @@
-# ML_main
-This repo is meant for educational purposes. And the main goal is to understand Machine Learning as a whole by creating each machine learning algorithm from scratch.
+# Machine Learning Models
+Welcome to Machine Learning Models repository! This repository is dedicated to the demonstrating the most common machine learning algorithms from scratch for acedmic growth in the field of machine learning.
+
+
+# Dataset I use #
+MNIST Handwritten 0-9 numbers: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
