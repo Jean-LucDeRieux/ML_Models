@@ -9,6 +9,9 @@ MNIST Handwritten 0-9 numbers: https://www.kaggle.com/datasets/oddrationale/mnis
 - Installing all required packages: `pip install cv2 && pip install numpy && pip install pandas && pip install matplotlib`
     - This installs cv2, numpy, pandas, and matplotlib
 
+# Good Resources #
+- Types of Neural Networks: https://towardsai.net/p/machine-learning/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e
+
 
 # Misc
 - This repository uses conventional commits: https://www.conventionalcommits.org/en/v1.0.0/#summary
