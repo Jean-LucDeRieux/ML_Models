@@ -24,4 +24,6 @@ MNIST Handwritten 0-9 numbers: https://www.kaggle.com/datasets/oddrationale/mnis
     - test: Adding missing tests or correcting existing tests
     -  build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
     - ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+- Useful Latex equation formulas: https://blmoistawinde.github.io/ml_equations_latex/#softmax
+
 
