@@ -15,15 +15,17 @@ MNIST Handwritten 0-9 numbers: https://www.kaggle.com/datasets/oddrationale/mnis
 
 # Misc
 - This repository uses conventional commits: https://www.conventionalcommits.org/en/v1.0.0/#summary
-    - feat: A new feature
-    - fix: A bug fix
-    - docs: Documentation only changes
-    - perf: A code change that improves performance
-    - refactor: A code change that neither fixes a bug nor adds a feature
-    - style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
-    - test: Adding missing tests or correcting existing tests
-    -  build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
-    - ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+    - feat: – a new feature is introduced with the changes
+    - fix: – a bug fix has occurred
+    - chore: – changes that do not relate to a fix or feature and don't modify src or test files (for example updating dependencies)
+    - refactor: – refactored code that neither fixes a bug nor adds a feature
+    - docs: – updates to documentation such as a the README or other markdown files
+    - style: – changes that do not affect the meaning of the code, likely related to code formatting such as white-space, missing semi-colons, and so on.
+    - test: – including new or correcting previous tests
+    - perf: – performance improvements
+    - ci: – continuous integration related
+    - build: – changes that affect the build system or external dependencies
+    - revert: – reverts a previous commit
 - Useful Latex equation formulas: https://blmoistawinde.github.io/ml_equations_latex/#softmax
 
 
