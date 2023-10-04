@@ -11,6 +11,7 @@ MNIST Handwritten 0-9 numbers: https://www.kaggle.com/datasets/oddrationale/mnis
 
 # Good Resources #
 - Types of Neural Networks: https://towardsai.net/p/machine-learning/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e
+- Great example of basics of nerual network: https://youtu.be/8d6jf7s6_Qs?si=fhk-a2IxZOXOmzbA
 
 
 # Misc
@@ -27,5 +28,6 @@ MNIST Handwritten 0-9 numbers: https://www.kaggle.com/datasets/oddrationale/mnis
     - build: – changes that affect the build system or external dependencies
     - revert: – reverts a previous commit
 - Useful Latex equation formulas: https://blmoistawinde.github.io/ml_equations_latex/#softmax
+
 
 
