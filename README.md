@@ -13,7 +13,7 @@ MNIST Handwritten 0-9 numbers: https://www.kaggle.com/datasets/oddrationale/mnis
 - Types of Neural Networks: https://towardsai.net/p/machine-learning/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e
 - Great example of basics of nerual network: https://youtu.be/8d6jf7s6_Qs?si=fhk-a2IxZOXOmzbA
 - Activation function example: https://www.youtube.com/watch?v=CoPl2xn2nmk&t=278s&ab_channel=MikaelLaine
-
+- Neural Networks: https://www.youtube.com/watch?v=CoPl2xn2nmk&t=100s&ab_channel=MikaelLaine
 
 # Misc
 - This repository uses conventional commits: https://www.conventionalcommits.org/en/v1.0.0/#summary
