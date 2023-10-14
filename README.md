@@ -14,6 +14,7 @@ MNIST Handwritten 0-9 numbers: https://www.kaggle.com/datasets/oddrationale/mnis
 - Great example of basics of nerual network: https://youtu.be/8d6jf7s6_Qs?si=fhk-a2IxZOXOmzbA
 - Activation function example: https://www.youtube.com/watch?v=CoPl2xn2nmk&t=278s&ab_channel=MikaelLaine
 - Neural Networks: https://www.youtube.com/watch?v=CoPl2xn2nmk&t=100s&ab_channel=MikaelLaine
+- NN: https://www.mladdict.com/neural-network-simulator
 
 # Misc
 - This repository uses conventional commits: https://www.conventionalcommits.org/en/v1.0.0/#summary
